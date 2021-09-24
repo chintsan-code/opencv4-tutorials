@@ -11,3 +11,5 @@
 #### 4. 图像对象的创建与赋值：https://blog.chintsan.com/archives/1023
 
 #### 5. 图像像素的读写操作：https://blog.chintsan.com/archives/1032
+
+#### 6.图像像素的算术操作：https://blog.chintsan.com/archives/1047
